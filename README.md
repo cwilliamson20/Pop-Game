@@ -1,0 +1,2 @@
+# Pop-Game
+This is a project from my second Python programming class. Given the single file pop_original.py, I implemented the same game using the Model-View-Controller architecture. This was an excellent opportunity to practice working from previous code rather than starting from scratch. I also gained knowledge in the curses module, with which I had no previous experience. While it is not the most practical of modules, learning how to use it was a difficult experience that has imrpoved my ability to learn new modules since. 
